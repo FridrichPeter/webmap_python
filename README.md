@@ -1,3 +1,3 @@
-"# webmap_python" 
+### Mapping with python
 
-simple pythpon app for visualisation json data with folium
+Simple python app for visualisation json data with folium
